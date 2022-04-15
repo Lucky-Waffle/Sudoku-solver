@@ -1,0 +1,44 @@
+C:\Users\mariu\OneDrive - USN\PB1150P-1 20H Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\bin\Debug\Sudoku Solver.exe.config
+C:\Users\mariu\OneDrive - USN\PB1150P-1 20H Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\bin\Debug\Sudoku Solver.exe
+C:\Users\mariu\OneDrive - USN\PB1150P-1 20H Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\bin\Debug\Sudoku Solver.pdb
+C:\Users\mariu\OneDrive - USN\PB1150P-1 20H Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csprojAssemblyReference.cache
+C:\Users\mariu\OneDrive - USN\PB1150P-1 20H Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku_Solver.FormMenu.resources
+C:\Users\mariu\OneDrive - USN\PB1150P-1 20H Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku_Solver.FormSolver.resources
+C:\Users\mariu\OneDrive - USN\PB1150P-1 20H Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku_Solver.Properties.Resources.resources
+C:\Users\mariu\OneDrive - USN\PB1150P-1 20H Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.GenerateResource.cache
+C:\Users\mariu\OneDrive - USN\PB1150P-1 20H Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive - USN\PB1150P-1 20H Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku Solver.exe
+C:\Users\mariu\OneDrive - USN\PB1150P-1 20H Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku Solver.pdb
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\bin\Debug\Sudoku Solver.exe.config
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\bin\Debug\Sudoku Solver.exe
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\bin\Debug\Sudoku Solver.pdb
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csprojAssemblyReference.cache
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku_Solver.FormMenu.resources
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku_Solver.FormSolver.resources
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku_Solver.Properties.Resources.resources
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.GenerateResource.cache
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku Solver.exe
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku_Solver\Sudoku Solver\obj\Debug\Sudoku Solver.pdb
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\bin\Debug\Sudoku Solver.exe.config
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\bin\Debug\Sudoku Solver.exe
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\bin\Debug\Sudoku Solver.pdb
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku Solver.csprojAssemblyReference.cache
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku_Solver.FormMenu.resources
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku_Solver.FormSolver.resources
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku_Solver.Properties.Resources.resources
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.GenerateResource.cache
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.CoreCompileInputs.cache
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku Solver.exe
+C:\Users\mariu\OneDrive - USN\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku Solver.pdb
+C:\Users\Bruker\OneDrive - USN\Semester 2\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\bin\Debug\Sudoku Solver.exe.config
+C:\Users\Bruker\OneDrive - USN\Semester 2\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\bin\Debug\Sudoku Solver.exe
+C:\Users\Bruker\OneDrive - USN\Semester 2\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\bin\Debug\Sudoku Solver.pdb
+C:\Users\Bruker\OneDrive - USN\Semester 2\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.AssemblyReference.cache
+C:\Users\Bruker\OneDrive - USN\Semester 2\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku_Solver.FormMenu.resources
+C:\Users\Bruker\OneDrive - USN\Semester 2\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku_Solver.FormSolver.resources
+C:\Users\Bruker\OneDrive - USN\Semester 2\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku_Solver.Properties.Resources.resources
+C:\Users\Bruker\OneDrive - USN\Semester 2\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.GenerateResource.cache
+C:\Users\Bruker\OneDrive - USN\Semester 2\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku Solver.csproj.CoreCompileInputs.cache
+C:\Users\Bruker\OneDrive - USN\Semester 2\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku Solver.exe
+C:\Users\Bruker\OneDrive - USN\Semester 2\PB1150P-1 Objektorientert programmering og databaser\Innleveringer\Arbeidskrav 2\Sudoku Solver\obj\Debug\Sudoku Solver.pdb
